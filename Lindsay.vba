@@ -12,6 +12,8 @@
 'Dim oldCell As Range
 'Private Sub Worksheet_SelectionChange(ByVal Target As Range)
 '    ReflectCell oldCell, "A2", "Legend", "F4"
+'    ReflectCell oldCell, "A2", "Cost Work Up", "B30"
+'    ReflectCell oldCell, "A2", "Quote", "A14"
 '    Set oldCell = Target
 'End Sub
 
